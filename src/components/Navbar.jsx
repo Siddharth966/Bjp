@@ -76,6 +76,16 @@ const Navbar = () => {
               </NavLink>
             </li>
 
+              <li className="nav-item">
+              <NavLink
+                to="/contact"
+                className="nav-link"
+                onClick={closeNavbar}
+              >
+                Contact 
+              </NavLink>
+            </li>
+
             {/* CTA */}
             <li className="nav-item mt-3 mt-lg-0 ms-lg-3">
               <Link

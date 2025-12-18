@@ -139,7 +139,7 @@ const Home = () => {
         </div>
       </section>
 
-      {/* Add this CSS in your main stylesheet or create a separate CSS file */}
+    
       <style jsx>{`
         /* Responsive adjustments */
         @media (min-width: 576px) {

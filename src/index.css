@@ -431,3 +431,50 @@ body {
     margin: 0 auto;
   }
 }
+
+/* contact */
+
+/* ===== CONTACT PAGE ===== */
+.contact-page {
+  background: linear-gradient(135deg, #fff5f5, #ffffff);
+}
+
+.contact-card {
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 30px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.08);
+}
+
+.contact-item {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 22px;
+}
+
+.contact-icon {
+  font-size: 22px;
+  color: #dc3545;
+  margin-top: 4px;
+}
+
+.form-control {
+  border-radius: 10px;
+  padding: 12px;
+}
+
+.form-control:focus {
+  border-color: #dc3545;
+  box-shadow: none;
+}
+
+/* ===== MOBILE ===== */
+@media (max-width: 768px) {
+  .contact-card {
+    padding: 20px;
+  }
+
+  .contact-page h2 {
+    font-size: 1.6rem;
+  }
+}
