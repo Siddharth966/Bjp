@@ -34,8 +34,8 @@ const About = () => {
             <div className="about-card">
               <h4 className="fw-bold mb-3">Electoral Profile</h4>
               <ul className="list-unstyled">
-                <li><strong>Position:</strong> Nagar Sevak</li>
-                <li><strong>Ward Number:</strong> 30</li>
+                <li><strong>Position:</strong> President – BJP Mahila Morcha, Ravet–Kiwale Mandal</li>
+                <li><strong>Ward Number:</strong> 19</li>
                 <li><strong>Party:</strong> Bharatiya Janata Party (BJP)</li>
                 <li><strong>Election Symbol:</strong> Lotus (कमळ)</li>
               </ul>
