@@ -44,7 +44,7 @@ const englishData = [
   {
     title: "9) Development",
     content:
-      "It is the duty of the elected representatives to provide all basic amenities to the citizens of the Chinchwad Assembly constituency and to elevate their standard of living. In the coming years, the comprehensive development of the Pimpri Assembly will be prioritized.These are some of the ambitious projects I intend to undertake in our constituency. My vision for Pimpri is to establish the Chinchwad Assembly constituency as a model of development for the nation.",
+      "It is the duty of the elected representatives to provide all basic amenities to the citizens of the Chinchwad Assembly constituency and to elevate their standard of living. In the coming years, the comprehensive development of the Chinchwad Assembly will be prioritized.These are some of the ambitious projects I intend to undertake in our constituency. My vision for Pimpri is to establish the Chinchwad Assembly constituency as a model of development for the nation.",
   },
 ];
 
@@ -92,7 +92,7 @@ const marathiData = [
   {
     title: "९) विकास",
     content:
-      "निवडून आलेल्या प्रतिनिधींचे कर्तव्य आहे की त्यांनी नागरिकांना सर्व मूलभूत सुविधा पुरवून त्यांचा जीवनमान उंचावावे. येत्या काळात पिंपरी विधानसभा मतदारसंघाचा सर्वांगीण विकास प्राधान्याने केला जाईल. विविध महत्त्वाकांक्षी प्रकल्प राबवून चिंचवड विधानसभा मतदारसंघ देशासाठी विकासाचा आदर्श बनवणे हे माझे व्हिजन आहे."
+      "निवडून आलेल्या प्रतिनिधींचे कर्तव्य आहे की त्यांनी नागरिकांना सर्व मूलभूत सुविधा पुरवून त्यांचा जीवनमान उंचावावे. येत्या काळात चिंचवड विधानसभा मतदारसंघाचा सर्वांगीण विकास प्राधान्याने केला जाईल. विविध महत्त्वाकांक्षी प्रकल्प राबवून चिंचवड विधानसभा मतदारसंघ देशासाठी विकासाचा आदर्श बनवणे हे माझे व्हिजन आहे."
   }
 ];
 
