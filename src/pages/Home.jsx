@@ -14,7 +14,7 @@ const Home = () => {
       <Carousel fade interval={3000}>
         <Carousel.Item>
           <img
-            className="d-block w-100"
+            className="d-block w-100 carousel-img"
             src={slide1}
             alt="First slide"
             style={{ height: "80vh", objectFit: "cover" }}
@@ -27,7 +27,7 @@ const Home = () => {
 
         <Carousel.Item>
           <img
-            className="d-block w-100"
+            className="d-block w-100 carousel-img"
             src={slide2}
             alt="Second slide"
             style={{ height: "80vh", objectFit: "cover" }}
@@ -40,7 +40,7 @@ const Home = () => {
 
         <Carousel.Item>
           <img
-            className="d-block w-100"
+            className="d-block w-100 carousel-img"
             src={slide3}
             alt="Third slide"
             style={{ height: "80vh", objectFit: "cover" }}

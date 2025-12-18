@@ -72,6 +72,53 @@ body {
   background: linear-gradient(115deg, #f1ebe2, #f9bfac);
 }
 
+/* ===== CAROUSEL ===== */
+.carousel-img {
+  height: 80vh;
+  object-fit: cover;
+}
+
+/* Mobile fix */
+@media (max-width: 768px) {
+  .carousel-img {
+    height: 45vh;
+  }
+
+  .carousel-caption h3 {
+    font-size: 1.1rem;
+  }
+
+  .carousel-caption p {
+    font-size: 0.85rem;
+  }
+}
+
+/* ===== HOME CONTENT ===== */
+.home-gradient h1 {
+  font-size: 2.2rem;
+}
+
+@media (max-width: 768px) {
+  .home-gradient h1 {
+    font-size: 1.6rem;
+  }
+
+  .home-gradient h4 {
+    font-size: 1.1rem;
+  }
+
+  .home-gradient p.lead {
+    font-size: 0.95rem;
+  }
+
+  .home-gradient .btn {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+}
+
+
+
 /* ===== GALLERY SECTION ===== */
 /* ===== GALLERY ===== */
 .gallery-section {
